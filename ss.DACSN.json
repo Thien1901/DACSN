@@ -1,0 +1,1200 @@
+[{
+  "_id": "001",
+  "SinhVien": {
+    "mssv": "1",
+    "hoTen": "Nguyễn Phú Vinh",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "023456789",
+    "mailSv": "110122029@st.tvu.edu.vn",
+    "ngay_sinh": "2001-01-01",
+    "gioi_tinh": "Nam",
+    "dia_chi": "123 Đường ABC, TP.HCM"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "002",
+  "SinhVien": {
+    "mssv": "2",
+    "hoTen": "Nguyễn Thanh Thiên",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "023456710",
+    "mailSv": "110122111@st.tvu.edu.vn",
+    "ngay_sinh": "2004-09-01",
+    "gioi_tinh": "Nam",
+    "dia_chi": "123 Đường BD, TP.HCM"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "003",
+  "SinhVien": {
+    "mssv": "3",
+    "hoTen": "Nguyễn Thị Trân",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "023456711",
+    "mailSv": "110122111@st.tvu.edu.vn",
+    "ngay_sinh": "2004-07-16",
+    "gioi_tinh": "Nữ",
+    "dia_chi": "123 Đường CD, TP.HCM"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "004",
+  "SinhVien": {
+    "mssv": "4",
+    "hoTen": "Nguyễn Thị Bảo Trân",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "023456345",
+    "mailSv": "11012214@st.tvu.edu.vn",
+    "ngay_sinh": "2004-07-15",
+    "gioi_tinh": "Nữ",
+    "dia_chi": "1234, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "005",
+  "SinhVien": {
+    "mssv": "5",
+    "hoTen": "Trần Khánh Hưng",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "0234563126",
+    "mailSv": "110122134@st.tvu.edu.vn",
+    "ngay_sinh": "2004-06-15",
+    "gioi_tinh": "Nam",
+    "dia_chi": "Nguyễn Thiện Thànhh, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "006",
+  "SinhVien": {
+    "mssv": "6",
+    "hoTen": "Kim Trọng Nguyễn",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "0234563109",
+    "mailSv": "1101221109@st.tvu.edu.vn",
+    "ngay_sinh": "2004-09-15",
+    "gioi_tinh": "Nam",
+    "dia_chi": "Nguyễn Thiện Thànhh, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Không có ý kiến"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "007",
+  "SinhVien": {
+    "mssv": "7",
+    "hoTen": "Phạm Minh Nhật",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "02345631008",
+    "mailSv": "1101221108@st.tvu.edu.vn",
+    "ngay_sinh": "2004-10-15",
+    "gioi_tinh": "Nam",
+    "dia_chi": "112, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn không đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "008",
+  "SinhVien": {
+    "mssv": "8",
+    "hoTen": "Phạm Tiến Thành",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "0234563199",
+    "mailSv": "1101221199@st.tvu.edu.vn",
+    "ngay_sinh": "2004-10-16",
+    "gioi_tinh": "Nam",
+    "dia_chi": "111, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "009",
+  "SinhVien": {
+    "mssv": "9",
+    "hoTen": "Phạm Tiến Minh",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "02345631902",
+    "mailSv": "1101221102@st.tvu.edu.vn",
+    "ngay_sinh": "2004-10-17",
+    "gioi_tinh": "Nam",
+    "dia_chi": "110, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+},
+{
+  "_id": "010",
+  "SinhVien": {
+    "mssv": "10",
+    "hoTen": "Kim Thành Vinh",
+    "khoa": "Kỹ thuật và Công nghệ",
+    "nganh": "Công nghệ thông tin",
+    "sdt": "0234563103",
+    "mailSv": "1101221102@st.tvu.edu.vn",
+    "ngay_sinh": "2004-10-18",
+    "gioi_tinh": "Nam",
+    "dia_chi": "110, TP.Trà Vinh"
+  },
+  "chuan_dau_ra": {
+    "Ve_kien_thuc": [
+      {
+        "ma_kt": "KT1",
+        "mo_ta": "Kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong phạm vi của ngành đào tạo.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT2",
+        "mo_ta": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT3",
+        "mo_ta": "Kiến thức về công nghệ thông tin đáp ứng nhu cầu thực tế.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT4",
+        "mo_ta": "Kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kt": "KT5",
+        "mo_ta": "Kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_ky_nang": [
+      {
+        "ma_kn": "KN1",
+        "mo_ta": "Kỹ năng cần thiết để có thể giải quyết các vấn đề phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN2",
+        "mo_ta": "Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN3",
+        "mo_ta": "Kỹ năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN4",
+        "mo_ta": "Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_kn": "KN5",
+        "mo_ta": "Kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc; chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể hoặc phức tạp.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ],
+    "Ve_muc_do_tu_chu_va_trach_nhiem": [
+      {
+        "ma_tc_tn": "TC&TN1",
+        "mo_ta": "Làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN2",
+        "mo_ta": "Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN3",
+        "mo_ta": "Tự định hướng, đưa ra kết luận chuyên môn và có thể bảo vệ được quan điểm cá nhân.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      },
+      {
+        "ma_tc_tn": "TC&TN4",
+        "mo_ta": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+        "danh_gia": [
+          "Hoàn toàn đồng ý"
+        ]
+      }
+    ]
+  }
+}]
